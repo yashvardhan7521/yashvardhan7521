@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!# 💫 About Me:
 # About Me 👋<br><br>Hi, I'm Yash Vardhan, a student passionate about technology, coding, and building useful projects.<br><br>I enjoy exploring software development, AI, and new technologies while continuously improving my skills. I like creating projects, experimenting with ideas, and learning through hands-on experience.<br><br>Currently, I’m focused on expanding my knowledge in programming, app development, and problem-solving. I believe in learning by building and sharing my work with the community.<br><br>🚀 Always learning. Always building.<br>
 
 
