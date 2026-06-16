@@ -1,5 +1,5 @@
 ## Hi there 👋
-# About Me 👋<br>Hi, I'm Yash Vardhan, a student passionate about technology, coding, and building useful projects.I enjoy exploring software development, AI, and new technologies while continuously improving my skills.
+# About Me 👋<br>Hi, I'm Yash Vardhan, a student passionate about technology, coding, and building useful projects.<br>I enjoy exploring software development, AI, and new technologies while continuously improving my skills.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morningstar_6174) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yashvardhan7521) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/morningstar_6174) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@morningstar_7164) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Morningstar_752) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashvardhan2520@gmail.com) 
 
